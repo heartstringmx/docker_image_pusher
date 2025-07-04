@@ -7,3 +7,4 @@ xhofe/alist:latest
 mysql:8.0
 redis:alpine
 henryxiaoyang/xybotv2:latest
+nanssye/xbot-wechat
