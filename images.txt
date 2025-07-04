@@ -8,3 +8,4 @@ mysql:8.0
 redis:alpine
 henryxiaoyang/xybotv2:latest
 nanssye/xbot-wechat
+nanssye/xbot
