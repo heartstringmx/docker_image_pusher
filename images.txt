@@ -12,3 +12,5 @@ nanssye/xbot
 cp0204/quark-auto-save:latest
 jiangrui1994/cloudsaver:latest
 mlikiowa/napcat-docker:latest
+kokojacket/baidu-autosave:latest
+cp0204/quark-auto-save:latest
